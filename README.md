@@ -21,7 +21,7 @@ Creativity    ████████████████████
 Debugging     ████████████████████ 
 Stack Overflow ████████████████████
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdospeet11&layout=donut-vertical)](https://github.com/erdospeet11/github-readme-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erdospeet11&show_icons=true&theme=radical" alt="Peter's GitHub Stats" />
