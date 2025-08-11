@@ -13,3 +13,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+╭─────────────────────────────────────────────────────────────╮
+│  > whoami                                                   │
+│  erdospeet11: The Code Architect 🏗️                        │
+│                                                             │
+│  > ls -la interests/                                        │
+│  drwxr-xr-x  innovation/     🚀 Building tomorrow's tech    │
+│  drwxr-xr-x  problem_solving/ 🧩 Turning bugs into features │
+│  drwxr-xr-x  creativity/     🎨 Code is art, change my mind │
+│  drwxr-xr-x  collaboration/  🤝 Great minds code alike      │
+╰─────────────────────────────────────────────────────────────╯
+
+Languages     ████████████████████ 
+Frameworks    ████████████████████ 
+Tools         ████████████████████ 
+Creativity    ████████████████████ 
+Debugging     ████████████████████ 
+Stack Overflow ████████████████████
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erdospeet11&show_icons=true&theme=radical" alt="Peter's GitHub Stats" />
+</div>
