@@ -26,3 +26,7 @@ Stack Overflow ████████████████████
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erdospeet11&show_icons=true&theme=radical" alt="Peter's GitHub Stats" />
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,terraform,kubernetes,azure,oracle,github,git,html,css,js,nodejs,svelte,mongodb,redis,jenkins,prometheus,cloudflare,openai" />
+</p>
