@@ -25,6 +25,7 @@ Stack Overflow ████████████████████
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdospeet11&layout=donut&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erdospeet11&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
