@@ -28,5 +28,7 @@ Stack Overflow ████████████████████
 </div>
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=figma,azure,blender,c#,css,dotnet,flask,githubactions,godot,graphql,html,js,lua,mint,neovimn,nodejs,postgres,postman,py,react,sqlite,supabase,svelte,threejs,terraform,unity,vscode,webpack)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,azure,blender,c#,css,dotnet,flask,githubactions,godot,graphql,html,js,lua,mint,neovimn,nodejs,postgres,postman,py,react,sqlite,supabase,svelte,threejs,terraform,unity,vscode,webpack" />
+  </a>
 </p>
