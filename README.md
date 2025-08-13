@@ -51,7 +51,7 @@ Digital Solutions Intern @ Ernst & Young (Dec 2024 - May 2025)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,azure,blender,cs,css,dotnet,flask,githubactions,godot,graphql,html,js,lua,mint,neovimn,nodejs,postgres,postman,py,react,sqlite,supabase,svelte,threejs,terraform,unity,vscode,webpack" />
+    <img src="https://skillicons.dev/icons?i=figma,azure,blender,cs,css,dotnet,flask,githubactions,go,godot,graphql,html,js,lua,mint,neovimn,nodejs,postgres,postman,py,react,sqlite,supabase,svelte,threejs,terraform,ts,unity,vscode,webpack" />
   </a>
 </p>
 
