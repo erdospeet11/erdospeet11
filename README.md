@@ -29,16 +29,16 @@ Stack Overflow ████████████████████
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erdospeet11&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div>
+
+---
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,azure,blender,cs,css,dotnet,flask,githubactions,godot,graphql,html,js,lua,mint,neovimn,nodejs,postgres,postman,py,react,sqlite,supabase,svelte,threejs,terraform,unity,vscode,webpack" />
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erdospeet11&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
 
 ---
