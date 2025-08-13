@@ -7,22 +7,18 @@ Welcome to my GitHub profile! I'm a Computer Science student at ELTE University,
 ### 🎮 Featured Projects
 
 🕹️ Multiplayer Bomberman Game
-
-Tech: Go, Ebiten Framework
-Description: Local multiplayer game developed as part of university coursework with 2 teammates
-Focus: Game mechanics, multiplayer networking, and Go programming
+- Tech: Go, Ebiten Framework
+- Description: Local multiplayer game developed as part of university coursework with 2 teammates
+- Focus: Game mechanics, multiplayer networking, and Go programming
 
 🏆 Arena Survival Game (Thesis Project)
-
-Tech: TypeScript, Phaser 3, MySQL
-Description: Web-based arena survival game with player data persistence
-Features: Real-time gameplay, database integration, responsive design
+- Tech: TypeScript, Phaser 3, MySQL
+- Description: Web-based arena survival game with player data persistence
+- Features: Real-time gameplay, database integration, responsive design
 
 🌐 Interactive Portfolio
-
-Tech: Svelte
-Description: Web-based portfolio showcasing my programming and computer science projects
-Available: GitHub Repository
+- Tech: Svelte
+- Description: Web-based portfolio showcasing my programming and computer science projects
 
 ---
 
