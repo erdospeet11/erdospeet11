@@ -23,7 +23,9 @@ Stack Overflow ████████████████████
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdospeet11&layout=donut)](https://github.com/erdospeet11/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdospeet11&layout=donut&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
