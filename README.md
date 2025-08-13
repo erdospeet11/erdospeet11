@@ -1,25 +1,37 @@
-## Hi there 👋
+## Hi there, I'm Péter👋,
 
+Welcome to my GitHub profile! I'm a Computer Science student at ELTE University, exploring the endless possibilities of technology. I love diving into new areas like game development, cloud computing, backend systems, and whatever catches my curiosity next.
 
-**erdospeet11/erdospeet11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎮 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🕹️ Multiplayer Bomberman Game
 
-Languages     ████████████████████ 
-Frameworks    ████████████████████ 
-Tools         ████████████████████ 
-Creativity    ████████████████████ 
-Debugging     ████████████████████ 
-Stack Overflow ████████████████████
+Tech: Go, Ebiten Framework
+Description: Local multiplayer game developed as part of university coursework with 2 teammates
+Focus: Game mechanics, multiplayer networking, and Go programming
+
+🏆 Arena Survival Game (Thesis Project)
+
+Tech: TypeScript, Phaser 3, MySQL
+Description: Web-based arena survival game with player data persistence
+Features: Real-time gameplay, database integration, responsive design
+
+🌐 Interactive Portfolio
+
+Tech: Svelte
+Description: Web-based portfolio showcasing my programming and computer science projects
+Available: GitHub Repository
+
+---
+
+### 💼 Work Experience
+
+Digital Solutions Intern @ Ernst & Young (Dec 2024 - May 2025)
+- Developing RAG-based chatbot applications for various company departments
+- Creating internal automation tools using ExcelScript, Power Platform, and Python
+- Working with .NET, React, and Azure cloud technologies
 
 ---
 
