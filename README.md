@@ -21,14 +21,16 @@ Creativity    ████████████████████
 Debugging     ████████████████████ 
 Stack Overflow ████████████████████
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdospeet11&layout=donut-vertical)](https://github.com/erdospeet11/github-readme-stats)
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erdospeet11&show_icons=true&theme=radical" alt="Peter's GitHub Stats" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdospeet11&layout=donut)](https://github.com/erdospeet11/github-readme-stats)
+
+---
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,azure,blender,cs,css,dotnet,flask,githubactions,godot,graphql,html,js,lua,mint,neovimn,nodejs,postgres,postman,py,react,sqlite,supabase,svelte,threejs,terraform,unity,vscode,webpack" />
   </a>
 </p>
+
+---
