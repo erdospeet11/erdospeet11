@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at ELTE University,
 
 ### 💼 Work Experience
 
-Digital Solutions Intern @ Ernst & Young (Dec 2024 - May 2025)
+Digital Solutions Intern @ Ernst & Young (Dec 2024 - July 2025)
 - Developing RAG-based chatbot applications for various company departments
 - Creating internal automation tools using ExcelScript, Power Platform, and Python
 - Working with .NET, React, and Azure cloud technologies
